@@ -8,3 +8,10 @@
 grid-template-columns: repeat(3, 1fr);
 gap: 4px;
 }
+.country-visited{
+    background-color: darkgrey;
+}
+.visited-flags-container img{
+    width: 150px;
+    margin: 5px;
+}
